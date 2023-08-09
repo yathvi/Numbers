@@ -65,7 +65,7 @@ class PrimeFactors
         System.out.println();System.out.println("=============================================================");System.out.println();
 
         primeNumberCountMap.forEach((a,b) -> {
-            System.out.println("Prime Number that repeated " + a + " time --> " + b);
+            System.out.println("Prime Numbers that repeated " + a + " time --> " + b);
         });
 
         System.out.println();System.out.println("=============================================================");System.out.println();
